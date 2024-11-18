@@ -16,6 +16,8 @@
 >
 > Api whatsapp para o envio do pedido
 
+### Adicione seu contato em src/components/CartComponents/CartComponents.vue 
+
 ## Mobile ❌
 
 ![image](https://github.com/user-attachments/assets/b3219155-895b-4094-94c1-ab7b45eff383)
