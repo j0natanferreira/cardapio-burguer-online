@@ -1,0 +1,56 @@
+{
+    "products": [
+        { "id": "1", 
+            "title": "Hamburguer 01", 
+            "price": "18.99", 
+            "image": "./../src/assets/products/product01.jpg", 
+            "categorys": "Hamburguer"
+        },
+        { "id": "2", 
+            "title": "Hamburguer 02", 
+            "price": "16.00", 
+            "image": "./../src/assets/products/product02.jpg", 
+            "categorys": "Hamburguers"
+        },
+        { "id": "3", 
+            "title": "Hamburguer 03", 
+            "price": "20.99", 
+            "image": "./../src/assets/products/product03.jpg", 
+            "categorys": "Hamburguers"
+        },
+        { "id": "4", 
+            "title": "Hamburguer 04", 
+            "price": "25.99", 
+            "image": "./../src/assets/products/product04.jpg", 
+            "categorys": "Hamburguers"
+        },
+        { "id": "5", 
+            "title": "Hamburguer 04", 
+            "price": "25.99", 
+            "image": "./../src/assets/products/product05.jpg", 
+            "categorys": "Hamburguers"
+        },
+        { "id": "6", 
+            "title": "Bata Frita P", 
+            "price": "15.99", 
+            "image": "./../src/assets/products/batat-frita.jpg", 
+            "categorys": "Sobremesas"
+        },
+        { "id": "7", 
+            "title": "Coca-Cola lata", 
+            "price": "10.00", 
+            "image": "./../src/assets/products/coca-cola.png", 
+            "categorys": "Bebidas"
+        },
+        { "id": "8", 
+            "title": "Guaraná", 
+            "price": "10.00", 
+            "image": "./../src/assets/products/guarana.png", 
+            "categorys": "Bebidas"
+        }
+    
+    ],
+    "cart": [
+        { "id": "1", "title": "Hamburguer 01", "price": "18.00", "img": "./assets/closeup-shot-burger-with-bacon-cheese-red-coffee-mug.jpg", "categorys": "Hamburguer"}
+    ]
+  }
