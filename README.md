@@ -1,8 +1,5 @@
 # Cardapio online com Vuex
 
-## Page
-[www.e-commerce-vuex.vercel.app/#/](https://e-commerce-vuex.vercel.app/#/)
-
 ## Tecnologias utilizadas
 > Vue.js 3
 > 
