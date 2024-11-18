@@ -5,7 +5,7 @@ export default {
     data() {
         return {
             endereco: '',
-            phone: 82991506326,
+            phone: '',
         }
     },
     props: {
