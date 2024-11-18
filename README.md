@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+# Cardapio online com Vuex
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Page
+[www.e-commerce-vuex.vercel.app/#/](https://e-commerce-vuex.vercel.app/#/)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Tecnologias utilizadas
+> Vue.js 3
+> 
+> VueX
+> 
+> Vite
+>
+> TailwindCSS (Dark Mode)
+> 
+> Axios
+>
+> Api whatsapp para o envio do pedido
+
+## Mobile ❌
+
+![image](https://github.com/user-attachments/assets/b3219155-895b-4094-94c1-ab7b45eff383)
+
+![image](https://github.com/user-attachments/assets/05e01450-3841-47dc-a65d-43a24a6e898b)
