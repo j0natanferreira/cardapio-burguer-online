@@ -7,6 +7,8 @@
 > 
 > Vite
 >
+> Json Server
+>
 > TailwindCSS (Dark Mode)
 > 
 > Axios
